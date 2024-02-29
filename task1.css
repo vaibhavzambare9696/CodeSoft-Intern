@@ -1,0 +1,83 @@
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  background: rgb(34,193,195);
+            background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(181,6,71,1) 100%);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#about {
+    text-align: center;
+    padding: 20px;
+}
+
+#about img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#skills {
+    padding: 20px;
+}
+
+#projects {
+    padding: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+}
+
+#resume {
+    text-align: center;
+    padding: 20px;
+}
+
+#resume a {
+    text-decoration: none;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#resume a:hover {
+    background-color: #555;
+}
+
+#contact {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+div.project{
+    width: 25%;
+    border-radius: 15px;
+}
+div img{
+    border-radius: 15px;
+}
